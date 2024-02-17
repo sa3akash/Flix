@@ -1,4 +1,4 @@
-# Flix
+# Flix Movie Website
 
     Fullstack Responsive Movie Website 2024
 
